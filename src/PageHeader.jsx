@@ -9,7 +9,7 @@ const style = {
     backgroundColor: '#C70039'
   },
   div2: {
-    backgroundColor: '#D0D3D4',
+    backgroundColor: '#5B5B5B',
     width: '100%',
     height: '4rem',
     marginBottom: '3rem'
@@ -17,6 +17,10 @@ const style = {
   logo: {
     marginLeft: '2rem',
     marginTop: '.5rem'
+  },
+  headerText: {
+      display: 'flex',
+      alignItems: 'centered'
   }
 };
 
